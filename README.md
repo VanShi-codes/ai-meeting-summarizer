@@ -199,7 +199,6 @@ This project demonstrates:
 ## Vanshita Tiwari
 
 - GitHub: https://github.com/VanShi-codes
-- LinkedIn: Add Your LinkedIn URL
 
 ---
 
