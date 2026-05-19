@@ -1,0 +1,11 @@
+John: Sales declined by 12% this quarter.
+
+Sarah: We should automate customer onboarding.
+
+Mike: Engineering can build the automation workflow within 3 weeks.
+
+John: Let's target deployment before next month.
+
+Sarah: Marketing team needs dashboard visibility.
+
+Mike: Need API access from CRM team.
